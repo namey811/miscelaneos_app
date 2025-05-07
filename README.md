@@ -6,10 +6,10 @@ A new Flutter project.
 
 Instalar las siguientes dependencias del proyecto:
 
-´´´
+```
 google_fonts
 go_router
 
-´´´
+```
 
 
